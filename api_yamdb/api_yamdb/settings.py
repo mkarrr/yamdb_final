@@ -14,7 +14,7 @@ SECRET_KEY = os.getenv('SECRET_KEY', default='NdexeTJQaohMTuTpmJkykqsRtIKP2ii9')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['84.201.166.53']
+ALLOWED_HOSTS = ['127.0.0.1']
 
 # yamdb support email address
 YAMDB_SUPPORT_EMAIL = 'no-reply@yamdb.com'
