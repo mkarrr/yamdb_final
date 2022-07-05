@@ -13,7 +13,7 @@ services:
       - .env
 
   web:
-    image: mkarrr/yamdb:v1.06.13
+    image: mkarrr/yamdb:v2
     restart: always
     volumes:
       - static_value:/app/static/
