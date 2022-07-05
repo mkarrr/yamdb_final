@@ -43,7 +43,7 @@ jobs:
         with:
           context: api_yamdb/
           push: true
-          tags: mkarrr/yamdb:v.1.06.13
+          tags: mkarrr/yamdb:v2
   deploy:
     runs-on: ubuntu-latest
     needs: build_and_push_to_docker_hub
