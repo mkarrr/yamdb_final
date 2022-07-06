@@ -45,4 +45,3 @@ http://hostname:port/redoc/
 [@mkarrr](https://github.com/mkarrr)
 
 ![yamdb workflow](https://github.com/mkarrr/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
-
